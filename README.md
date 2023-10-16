@@ -1,4 +1,4 @@
-# Games-Project-1  - Maze Game C# (UNITY) 
+# Games-Project-1  - Maze Game (UNITY) 
 
 https://rubennhez.itch.io/maze - Link to the Game :)
 
